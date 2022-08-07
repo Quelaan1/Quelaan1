@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quelaan1
+- 👋 Hi, I’m Tilak Kumar G
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Frontend-development
 - 💞️ I’m looking to collaborate on ...
