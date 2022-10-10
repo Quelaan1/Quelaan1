@@ -5,4 +5,4 @@
 - 📫 You can reach me via mailtotilakkumar@gmail.com.
 
 
-![Tilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quelaan1&count_private=true)
+![Tilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quelaan1&show_icons=true&count_private=true)
